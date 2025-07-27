@@ -1,4 +1,3 @@
-# Strivers-A2Z-sheet
 # Striver A2Z DSA Sheet – My Solutions
 
 This repository contains my step-by-step progress while solving Striver’s A2Z DSA Sheet.
