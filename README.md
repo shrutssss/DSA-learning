@@ -7,7 +7,9 @@ This repository contains my step-by-step progress while solving Striver’s A2Z 
 🧠 Language used: C++ 
 
 ## 📂 Folder Breakdown:
-- `Basics`: C++ basics, Logic-building, Pattern printing.
+- `basics`: C++ basics.
+- `patterns` : Pattern printing.
+- `basicMath` : Solving problems based on basic maths.
 
 ## ✅ Progress
 - [x] Basics/Patterns – 10/31
