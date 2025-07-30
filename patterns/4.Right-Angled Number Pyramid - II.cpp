@@ -1,5 +1,5 @@
 //4.Right-Angled Number Pyramid-II
-//problem link: 
+//problem link: https://www.geeksforgeeks.org/problems/triangle-number-1661428795/1
 
 #include <iostream>
 using namespace std;
