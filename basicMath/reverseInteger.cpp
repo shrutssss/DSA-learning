@@ -49,18 +49,16 @@ public:
 };
 
 int main() {
-    int number;
-
-    // Ask user for input
+    int x;
     cout << "Enter an integer to reverse: ";
-    cin >> number;
-
-    // Create object and call function
-    Solution solution;
-    int reversed = solution.reverse(number);
-
-    // Print result
-    cout << "Reversed number is: " << reversed << endl;
-
+    cin >> x;
+    Solution obj;
+    obj.reverse(number);
     return 0;
 }
+
+//COMPLEXITY ANALYSIS:
+//Time Complexity: O(log_10(N)+1) where 10 is the base.
+//here, number of iterations= log10(N) since we divide N by 10 until it becomes 0. it will run for n=0 too so the +1.
+
+//Space Complexity: O(1) as only a constant amount of additional memory for the counter regardless of size of the input number.
