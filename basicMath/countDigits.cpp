@@ -3,12 +3,6 @@
 // Return the total number of such digits.
 // Problem link: https://www.geeksforgeeks.org/problems/count-digits5716/1
 
-//Time complexity: O(log_10(N)+1) where 10 is the base.
-//here, number of iterations= log10(N) since we divide N by 10 until it becomes 0. it will run for n=0 too so the +1.
-
-//Space complexity: O(1) as only a constant amount of additional memory for the counter regardless of size of the input number.
-
-
 #include <iostream>
 using namespace std;
 class Solution {
@@ -37,3 +31,9 @@ int main() {
     cout << "Number of digits that evenly divide " << n << " = " << result << endl;
     return 0;
 }
+
+//COMPLEXITY ANALYSIS:
+//Time Complexity: O(log_10(N)+1) where 10 is the base.
+//here, number of iterations= log10(N) since we divide N by 10 until it becomes 0. it will run for n=0 too so the +1.
+
+//Space Complexity: O(1) as only a constant amount of additional memory for the counter regardless of size of the input number.
