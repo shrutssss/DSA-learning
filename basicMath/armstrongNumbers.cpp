@@ -19,6 +19,8 @@
 // now once n=0, the while loop will run one more time so +1.
 
 
+#include <iostream>
+using namespace std;
 
 class Solution {
   public:
@@ -38,7 +40,15 @@ class Solution {
         }
         
         if(sum == originalNumber) return true;
-        
+
         else return false;
     }
 };
+
+int main(){
+    int n;
+    cout<<"ENter n: "<<endl;
+    cin>>n;
+    Solution obj;
+    obj.armstrongNumber(n);
+}
