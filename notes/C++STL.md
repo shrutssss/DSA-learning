@@ -21,10 +21,7 @@
   - [Unordered Set](#unordered-set)
   - [Unordered Map](#unordered-map)
 - [ Iterators](#-iterators)
-- [ Algorithms & Utility Functions](#️-algorithms--utility-functions)
 - [ auto Keyword](#-auto-keyword)
-- [Time Complexity Table](#-time-complexity-table)
-
 ---
 
 ##  STL Overview
