@@ -1,5 +1,5 @@
 // Binary Number Triangle Pattern
-// problem link: 
+// problem link: https://www.geeksforgeeks.org/problems/triangle-pattern-1661718455/1
 
 #include <iostream>
 using namespace std;
