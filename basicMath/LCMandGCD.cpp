@@ -6,6 +6,8 @@
 // 2. in loop, do greater_number%smaller_number until one of them becomes 0
 // if a===0 then b is the GCD and vice versa.
 
+// Time complexity: O(log_phi(min(a,b))) , phi depends on test case.
+
 #include <iostream>
 #include <vector>
 using namespace std;
