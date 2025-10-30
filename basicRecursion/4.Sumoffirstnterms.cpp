@@ -19,5 +19,5 @@ int main(){
     cout<<"Enter n: "<<endl;
     cin>>n;
     Solution obj;
-    obj.printNos(n);
+    obj.sumOfSeries(n);
 }
