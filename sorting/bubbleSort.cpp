@@ -10,6 +10,9 @@
 //We will check in the first iteration if any swap is taking place. If the array is already sorted no swap will occur and we will break out from the loops.
 //Thus the iteration of the outer loop will be just 1. And our overall time complexity will be O(N).
 
+//Complexity Analysis: 
+// Time Complexity:O(N^2) for the worst and average cases and O(N) for the best case. Here, N = size of the array.
+// Space Complexity:O(1)
 
 #include <bits/stdc++.h>
 using namespace std;
