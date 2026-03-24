@@ -17,5 +17,5 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 - `basicMath` : Solving problems based on basic maths.
 
 ## ✅ Progress
-- [x] Learn the basics – 13/31
+- [x] Learn the basics –  30/31
 
