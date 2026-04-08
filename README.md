@@ -15,6 +15,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 - `basics`: C++ basics.
 - `patterns` : Pattern printing.
 - `basicMath` : Solving problems based on basic maths.
+- `basicRecursion` : Solving problems based on basic recursion.
 
 ## ✅ Progress
 - [x] Learn the basics –  30/31
