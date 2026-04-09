@@ -2,7 +2,7 @@
 // problem link: https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1
 
 // notes:
-// armstrong number: if the sum of cubes of the digits of a number is equal to the number itself.
+// armstrong number: if the sum of the digits of a number raised to power of number of digits present in the number, is equal to the number itself.
 // algorithm: 
 //    1. store given number in a variable so that it can be used for comparision later.
 //    2. create variable 'sum' to store sum of digits.
