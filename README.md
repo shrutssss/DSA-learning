@@ -18,5 +18,5 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 - `basicRecursion` : Solving problems based on basic recursion.
 
 ## ✅ Progress
-- [x] Learn the basics –  30/31
+- 40 / 453
 
