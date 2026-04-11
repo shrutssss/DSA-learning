@@ -16,6 +16,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 - `patterns` : Pattern printing.
 - `basicMath` : Solving problems based on basic maths.
 - `basicRecursion` : Solving problems based on basic recursion.
+- `arrays` : Solving problems based on arrays.
 
 ## ✅ Progress
 - 40 / 453
