@@ -17,6 +17,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 - `basicMath` : Solving problems based on basic maths.
 - `basicRecursion` : Solving problems based on basic recursion.
 - `arrays` : Solving problems based on arrays.
+- `notes` : Personal notes on DSA topic and coding. 
 
 ## ✅ Progress
 - 40 / 453
