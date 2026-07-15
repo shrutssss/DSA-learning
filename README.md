@@ -29,6 +29,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
+| [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
