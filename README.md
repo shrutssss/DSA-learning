@@ -31,6 +31,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shrutssss/DSA-learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shrutssss/DSA-learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
