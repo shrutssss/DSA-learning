@@ -35,6 +35,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0485-max-consecutive-ones](https://github.com/shrutssss/DSA-learning/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/shrutssss/DSA-learning/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shrutssss/DSA-learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -55,6 +56,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | ------- |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shrutssss/DSA-learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -101,4 +104,8 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shrutssss/DSA-learning/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
