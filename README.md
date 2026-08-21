@@ -29,6 +29,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shrutssss/DSA-learning/tree/master/0088-merge-sorted-array) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -83,4 +85,8 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
