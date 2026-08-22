@@ -35,6 +35,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0485-max-consecutive-ones](https://github.com/shrutssss/DSA-learning/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shrutssss/DSA-learning/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/shrutssss/DSA-learning/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -107,5 +108,6 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shrutssss/DSA-learning/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
