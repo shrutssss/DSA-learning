@@ -32,6 +32,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shrutssss/DSA-learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrutssss/DSA-learning/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/shrutssss/DSA-learning/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0152-maximum-product-subarray) |
 ## Quicksort
 |  |
 | ------- |
