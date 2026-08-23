@@ -38,6 +38,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0704-binary-search](https://github.com/shrutssss/DSA-learning/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shrutssss/DSA-learning/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shrutssss/DSA-learning/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/shrutssss/DSA-learning/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -81,6 +82,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/shrutssss/DSA-learning/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quicksort
 |  |
 | ------- |
@@ -116,4 +119,12 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0713-subarray-product-less-than-k](https://github.com/shrutssss/DSA-learning/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shrutssss/DSA-learning/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
