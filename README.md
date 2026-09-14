@@ -41,6 +41,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/shrutssss/DSA-learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/shrutssss/DSA-learning/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/shrutssss/DSA-learning/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shrutssss/DSA-learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -127,4 +128,8 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrutssss/DSA-learning/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shrutssss/DSA-learning/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
