@@ -53,6 +53,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shrutssss/DSA-learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrutssss/DSA-learning/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/shrutssss/DSA-learning/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +139,8 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shrutssss/DSA-learning/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shrutssss/DSA-learning/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
