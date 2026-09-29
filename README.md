@@ -85,6 +85,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shrutssss/DSA-learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shrutssss/DSA-learning/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/shrutssss/DSA-learning/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +144,9 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shrutssss/DSA-learning/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/shrutssss/DSA-learning/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/shrutssss/DSA-learning/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
