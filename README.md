@@ -28,6 +28,7 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrutssss/DSA-learning/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shrutssss/DSA-learning/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrutssss/DSA-learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrutssss/DSA-learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -143,10 +144,15 @@ GeeksforGeeks profile: https://www.geeksforgeeks.org/user/shrutivja4dur/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrutssss/DSA-learning/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/shrutssss/DSA-learning/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shrutssss/DSA-learning/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/shrutssss/DSA-learning/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shrutssss/DSA-learning/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
